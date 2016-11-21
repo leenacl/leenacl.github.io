@@ -2,6 +2,6 @@
 layout: archive
 title: 科研
 permalink: /science/
-tagline: "Humanity is overrated."
+tagline: "人类终归弱小。"
 category: "science"
 ---
